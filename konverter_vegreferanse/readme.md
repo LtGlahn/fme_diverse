@@ -59,7 +59,7 @@ Det utgående systemet lever for øvrig fram til august 2021, men ikke la det v�
 Korrekt, og det kunne utmerket godt vært pusset på. 
 
 Hvis du har oppgitt fra- og til verdi så prøver vi å hente geometri for strekningen med visveginfo-funksjonen 
-[GetRoadDataAlongRouteBetweenLocations](https://visveginfo.opentns.org/help.htm#GetRoadDataAlongRouteBetweenLocations)
+[GetRoadDataAlongRouteBetweenLocations](https://visveginfo.opentns.org/help.htm#GetRoadDataAlongRouteBetweenLocations) TODO: Erstatt med oppslag mot nvdb api LES /beta/vegnett/rute.
 
 I tillegg er det en del valideringer av inputdata og sånn. Hvis man først er dum nok til å akseptere XLSX som utvekslingsformat så må man nesten regne med en del innkommende rusk 
 
@@ -68,4 +68,11 @@ I tillegg er det en del valideringer av inputdata og sånn. Hvis man først er d
 Filnavn for input og resultat burde vært parameterstyrt, evt sniffet ut fra innhold i en katalog eller noe, ikke dette pirket med _"add reader"_. Resultatfil burde f.eks vært angitt automatisk ut fra filnavn på inputdata. 
 
 Etter noen slike endringer er workspace en god kandidat for FME server, samt parallelisering. 
+
+# FME workspace 
+
+  * **oppdatervegreferanser_v2.fmw** Håndterer strekninger (fra-til) med `Vegreferanse_konvertering_EKSEMPELDATA.xlsx` som inngangsdata 
+  * **oppdatervegreferanser_punkt.fmw** En forenkling av `oppdatervegreferanser_v2` for å håndtere punkt 
+  * **oppdatervegreferanser_historikkpunkt.fmw** og **oppdatervegreferanser_historikkpunkt_einarspesial.fmw** Disse to er spesiallaget for å håndtere vegreferanser fra Labsys Kvalink (med betydelig usikkerhet, datavask og rekonstruksjon av rare fylkesnummer m.m.)
+
 
