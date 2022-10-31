@@ -49,11 +49,6 @@ Ferske vegreferanser etter nytt system er kun et HTTP-GET kall unna mot NVDB api
 https://www.vegvesen.no/nvdb/api/v3/veg?veglenkesekvens=0@2282234
 
 
-Og hvis du ikke har lagt om til det nye systemet så kan du iallfall erstatte dine foreldede verdier med oppdaterte verdier fra (det utgående) 532 vegreferanse-systemet. 
-https://www.vegvesen.no/nvdb/api/v2/veg?veglenke=0@2282234
-
-Det utgående systemet lever for øvrig fram til august 2021, men ikke la det være en sovepute. 
-
 ### Men workspace er mye mer komplekst enn som så? 
 
 Korrekt, og det kunne utmerket godt vært pusset på. 
