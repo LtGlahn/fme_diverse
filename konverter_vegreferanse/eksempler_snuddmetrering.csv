@@ -1,0 +1,27 @@
+vegreferanse,tidspunkt,X,Y,kommentar
+1900Ev8hp1m13560,2022-10-30,654243.26,7735415,snudd metrering
+1900Ev8hp1m13560,2019-09-10,724645.71,7689178.18,snudd metrering
+1900Ev8hp1m13560,2014-10-30,724646.97,7689174.26,snudd metrering
+1200Ev16hp1m1,2022-10-31,-29028.4,6743341.04,snudd metrering
+1200Ev16hp1m1,2019-07-01,50917.51,6773854.75,snudd metrering
+1200Ev16hp1m1,2016-01-01,50917.51,6773854.75,snudd metrering
+1200Ev16hp1m1,2008-08-01,50917.32,6773864.7,snudd metrering
+5000Fv6690hp3m202,2022-10-31,270205.26,7041645.1,snudd metrering NVDB LES feiler med 3km
+1200Ev16hp1m10,2020-09-01,-29025.44,6743336.04,Debug bruker FRA-dato og snål konnekteringslenke
+1200Ev16hp1m10,2019-08-01,-29025.44,6743336.04,Debug bruker FRA-dato og snål konnekteringslenke
+1200Ev16hp1m10,2019-08-01,-29025.44,6743336.04,Debug bruker FRA-dato og snål konnekteringslenke
+1200Ev16hp1m10,2016-01-01,50909.04,6773858.11,Debug bruker FRA-dato og snål konnekteringslenke
+1200Ev16hp1m10,2008-08-01,50909.05,6773858.1,Debug bruker FRA-dato og snål konnekteringslenke
+1200Ev16hp1m10,1992-06-16,50909.42,6773868.32,Debug bruker FRA-dato og snål konnekteringslenke
+1200Ev16hp1m10,2022-10-31,-29025.44,6743336.04,Debug bruker TIL-dato og snål konnekteringslenke
+1200Ev16hp1m10,2020-09-02,-29025.44,6743336.04,Debug bruker TIL-dato og snål konnekteringslenke
+1200Ev16hp1m10,2020-09-01,-29025.44,6743336.04,Debug bruker TIL-dato og snål konnekteringslenke
+1200Ev16hp1m10,2019-08-02,50909.04,6773858.11,Debug bruker TIL-dato og snål konnekteringslenke
+1200Ev16hp1m10,2019-08-01,50909.04,6773858.11,Debug bruker TIL-dato og snål konnekteringslenke
+1200Ev16hp1m10,2019-07-30,50909.04,6773858.11,Debug bruker TIL-dato og snål konnekteringslenke
+1200Ev16hp1m10,2016-01-01,50909.05,6773858.1,Debug bruker TIL-dato og snål konnekteringslenke
+1200Ev16hp1m10,2008-08-01,50909.42,6773868.32,Debug bruker TIL-dato og snål konnekteringslenke
+0100Fv101hp1m13560,2019-08-26,299784.12,6543516.86,snudd metrering og byttet vegnummer
+0100Fv101hp1m13560,2010-08-09,299782.27,6543516.03,snudd metrering og byttet vegnummer
+0100Fv101hp1m1,2019-08-26,308429.58,6537560.73,snudd metrering og byttet vegnummer
+0100Fv101hp1m1,2010-08-10,308429.61,6537560.69,snudd metrering og byttet vegnummer
